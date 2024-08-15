@@ -21,11 +21,9 @@ I will demonstrate how to install Windows Server 2019 using Oracle Virtual Box i
 
 <p align="center">
 <b>Download and install Oracle Virtual Box / Extension Pack. Then download Windows Server ISO File and Windows 10 </b>
-
 <img src="https://i.imgur.com/6WBVxCL.png" height="60%" width="60%" alt="Setting up Windows Server 2019"/>
 <img src="https://i.imgur.com/az7EXf2.png" height="60%" width="60%" alt="Setting up Windows Server 2019"/>
 <img src="https://i.imgur.com/n5nIHzP.png" height="60%" width="60%" alt="Setting up Windows Server 2019"/>
-
 <img src="https://i.imgur.com/9y3hL6k.png" height="60%" width="60%" alt="Setting up Windows Server 2019"/>
 <p align="center">
 <b> Open Oracle Virtual Box and Create a Virtual Machine / setup as shown </b> 
@@ -36,17 +34,13 @@ I will demonstrate how to install Windows Server 2019 using Oracle Virtual Box i
 <img src="https://i.imgur.com/pAqyJJ0.png" height="60%" width="60%" alt="Setting up Windows Server 2019"/>
 <img src="https://i.imgur.com/8AfHPAx.png" height="60%" width="60%" alt="Setting up Windows Server 2019"/>
 <img src="https://i.imgur.com/IM8ge6N.png" height="60%" width="60%" alt="Setting up Windows Server 2019"/>
-
 <p align="center">
 <b> Double-click "Windows Server 2019" on the left of the screen. Wait a few seconds then when prompted insert the Windows Server ISO file </b>
 <img src="https://i.imgur.com/jC8JNqc.png" height="60%" width="60%" alt="Setting up Windows Server 2019"/>
-
 <p align="center">
-
 <b> Mount and Boot / Then click next and install now
-  
-<img src="https://i.imgur.com/pZlTSad.png" height="60%" width="60%" alt="Setting up Windows Server 2019"/>
-
+<p align="center">
+  <img src="https://i.imgur.com/pZlTSad.png" height="60%" width="60%" alt="Setting up Windows Server 2019"/>
 <p align="center"> 
 <b> Select the second option for Windows Setup and Accept license terms </b>
 <img src="https://i.imgur.com/VMmHUJ8.png" height="60%" width="60%" alt="Setting up Windows Server 2019"/>
