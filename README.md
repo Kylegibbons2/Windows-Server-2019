@@ -43,7 +43,7 @@ I will demonstrate how to install Windows Server 2019 using Oracle Virtual Box i
 
 <p align="center">
 
-  <b> Mount and Boot / Then click next and install now
+<b> Mount and Boot / Then click next and install now
   
 <img src="https://i.imgur.com/pZlTSad.png" height="60%" width="60%" alt="Setting up Windows Server 2019"/>
 
