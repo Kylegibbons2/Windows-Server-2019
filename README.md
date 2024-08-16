@@ -1,7 +1,7 @@
 <h1>Setting up Windows Server 2019 w/Virtualbox</h1>
 
 <h2>Description</h2>
-In this demonstration, I will show how to install Windows Server 2019 using Oracle Virtual Box. This guide will walk you through each step, making it easy to get started with these different types of software.
+In this demonstration, I will demonstrate how to install Windows Server 2019 using Oracle Virtual Box. This guide will walk you through each step, making it easy to get started with these different types of software.
 
 <h2> Utilities Used</h2>
 
